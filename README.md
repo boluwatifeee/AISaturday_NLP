@@ -21,3 +21,6 @@ A mini project. I used the extractive type summerizer techinque for the summeriz
 # Text Generation(Da Vinci):
 This project was done to get aquinted with Recurrent Neural Networks and its variations. I used an LSTM and a GRU. The courpus used
 are quotes by Leonardo Da Vinci. Data used is vinci.txt.
+
+
+References used or if used is indicated at the end of each notebook
